@@ -1,0 +1,10 @@
+10|Nation
+20|Region
+40|State
+50|County
+61|Minor Civil Division
+71|Minor Civil Division place part
+157|County place part
+162|Incorporated place
+170|Consolidated city
+172|Consolidated city

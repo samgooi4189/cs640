@@ -1,0 +1,4 @@
+Northeast|9
+Midwest|12
+South|17
+West|13

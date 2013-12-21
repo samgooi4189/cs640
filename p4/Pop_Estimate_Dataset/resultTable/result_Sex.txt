@@ -1,0 +1,3 @@
+0|Total
+1|Male
+2|Female

@@ -1,0 +1,11 @@
+Sumlev_Cd,Sumlev_Desc
+010,Nation
+020,Region
+040,State
+050,County
+061,Minor Civil Division
+071,Minor Civil Division place part
+157,County place part
+162,Incorporated place
+170,Consolidated city
+172,Consolidated city

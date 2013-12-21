@@ -1,0 +1,4 @@
+Origin_Cd,Origin_Desc
+0,Total
+1,Not Hispanic
+2,Hispanic

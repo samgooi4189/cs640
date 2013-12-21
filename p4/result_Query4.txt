@@ -1,0 +1,51 @@
+Jefferson County|660009
+Anchorage Municipality|298610
+Maricopa County|3942169
+Pulaski County|388953
+Los Angeles County|9962789
+El Paso County|644964
+Fairfield County|933835
+New Castle County|546076
+District of Columbia|632323
+Miami-Dade County|2591035
+Fulton County|977773
+Honolulu County|976372
+Ada County|409061
+Cook County|5231351
+Marion County|918977
+Polk County|443710
+Johnson County|559913
+Jefferson County|750828
+East Baton Rouge Parish|444526
+Cumberland County|283921
+Montgomery County|1004709
+Middlesex County|1537215
+Wayne County|1792365
+Hennepin County|1184576
+Hinds County|248643
+St. Louis County|1000438
+Yellowstone County|151882
+Douglas County|531265
+Clark County|2000759
+Hillsborough County|402922
+Bergen County|918888
+Bernalillo County|673460
+Kings County|2565635
+Mecklenburg County|969031
+Cass County|156157
+Cuyahoga County|1265111
+Oklahoma County|741781
+Multnomah County|759256
+Philadelphia County|1547607
+Providence County|628323
+Greenville County|467605
+Minnehaha County|175037
+Shelby County|940764
+Harris County|4253700
+Salt Lake County|1063842
+Chittenden County|158504
+Fairfax County|1118602
+King County|2007440
+Kanawha County|192179
+Milwaukee County|955205
+Laramie County|94483

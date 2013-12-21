@@ -1,0 +1,273 @@
+Query 1:
+Alabama
+Arizona
+California
+Colorado
+Florida
+Georgia
+Illinois
+Indiana
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Missouri
+New Jersey
+New York
+North Carolina
+Ohio
+Pennsylvania
+Tennessee
+Texas
+Virginia
+Washington
+Wisconsin
+
+Query 2:
+Northeast|9
+Midwest|12
+South|17
+West|13
+
+Query 3:
+Alabama|2173898|4779736
+Alaska|307815|710231
+Arizona|2848487|6392017
+Arkansas|1317915|2915918
+California|13688154|37253956
+Colorado|2215237|5029196
+Connecticut|1489117|3574097
+Delaware|406659|897934
+District of Columbia|297156|601723
+Florida|8997061|18801310
+Georgia|4091640|9687653
+Hawaii|520069|1360301
+Idaho|669114|1567582
+Illinois|5296832|12830632
+Indiana|2796556|6483802
+Iowa|1337237|3046355
+Kansas|1234105|2853118
+Kentucky|1928255|4339367
+Louisiana|1967756|4533372
+Maine|722579|1328361
+Maryland|2381320|5773552
+Massachusetts|2810394|6547629
+Michigan|4530882|9883640
+Minnesota|2348568|5303925
+Mississippi|1276119|2967297
+Missouri|2714863|5988927
+Montana|484093|989415
+Nebraska|797673|1826341
+Nevada|1175827|2700551
+New Hampshire|615344|1316470
+New Jersey|3555361|8791894
+New Mexico|902734|2059179
+New York|8110354|19378102
+North Carolina|4334566|9535483
+North Dakota|318181|672591
+Ohio|5128696|11536504
+Oklahoma|1666443|3751351
+Oregon|1677289|3831074
+Pennsylvania|5569709|12702379
+Rhode Island|463656|1052567
+South Carolina|2141551|4625364
+South Dakota|364052|814180
+Tennessee|2815511|6346105
+Texas|10001712|25145561
+Utah|982382|2763885
+Vermont|322907|625741
+Virginia|3369482|8001024
+Washington|2890038|6724540
+West Virginia|881888|1852994
+Wisconsin|2626443|5686986
+Wyoming|262602|563626
+
+Query 4:
+Jefferson County|660009
+Anchorage Municipality|298610
+Maricopa County|3942169
+Pulaski County|388953
+Los Angeles County|9962789
+El Paso County|644964
+Fairfield County|933835
+New Castle County|546076
+District of Columbia|632323
+Miami-Dade County|2591035
+Fulton County|977773
+Honolulu County|976372
+Ada County|409061
+Cook County|5231351
+Marion County|918977
+Polk County|443710
+Johnson County|559913
+Jefferson County|750828
+East Baton Rouge Parish|444526
+Cumberland County|283921
+Montgomery County|1004709
+Middlesex County|1537215
+Wayne County|1792365
+Hennepin County|1184576
+Hinds County|248643
+St. Louis County|1000438
+Yellowstone County|151882
+Douglas County|531265
+Clark County|2000759
+Hillsborough County|402922
+Bergen County|918888
+Bernalillo County|673460
+Kings County|2565635
+Mecklenburg County|969031
+Cass County|156157
+Cuyahoga County|1265111
+Oklahoma County|741781
+Multnomah County|759256
+Philadelphia County|1547607
+Providence County|628323
+Greenville County|467605
+Minnehaha County|175037
+Shelby County|940764
+Harris County|4253700
+Salt Lake County|1063842
+Chittenden County|158504
+Fairfax County|1118602
+King County|2007440
+Kanawha County|192179
+Milwaukee County|955205
+Laramie County|94483
+
+Query 5:
+Midwest|0-25|23450249
+Midwest|26-50|22036247
+Northeast|0-25|18415076
+Northeast|26-50|18682809
+South|0-25|40982252
+South|26-50|39159631
+West|0-25|26419231
+West|26-50|25011776
+
+Query 6:
+New York
+Pennsylvania
+New Jersey
+Massachusetts
+Connecticut
+Maine
+New Hampshire
+Rhode Island
+Vermont
+Illinois
+Ohio
+Michigan
+Indiana
+Missouri
+Minnesota
+Wisconsin
+Kansas
+Iowa
+Nebraska
+South Dakota
+North Dakota
+Texas
+Florida
+Georgia
+North Carolina
+Virginia
+Tennessee
+Maryland
+Louisiana
+Alabama
+South Carolina
+Kentucky
+Oklahoma
+Mississippi
+Arkansas
+Delaware
+District of Columbia
+California
+Washington
+Arizona
+Colorado
+Utah
+Oregon
+Nevada
+New Mexico
+Idaho
+Hawaii
+Montana
+Alaska
+Wyoming
+
+Query 7:
+Adams County|72|INCREASE
+Ashland County|46|DECREASE
+Barron County|97|INCREASE
+Bayfield County|121|INCREASE
+Brown County|1990|INCREASE
+Buffalo County|72|DECREASE
+Burnett County|86|INCREASE
+Calumet County|663|INCREASE
+Chippewa County|347|INCREASE
+Clark County|22|INCREASE
+Columbia County|176|DECREASE
+Crawford County|71|INCREASE
+Dane County|7312|INCREASE
+Dodge County|69|INCREASE
+Door County|199|INCREASE
+Douglas County|175|DECREASE
+Dunn County|124|INCREASE
+Eau Claire County|921|INCREASE
+Florence County|102|INCREASE
+Fond du Lac County|161|INCREASE
+Forest County|4|DECREASE
+Grant County|94|INCREASE
+Green County|124|INCREASE
+Green Lake County|54|INCREASE
+Iowa County|137|INCREASE
+Iron County|109|INCREASE
+Jackson County|63|INCREASE
+Jefferson County|283|INCREASE
+Juneau County|1|DECREASE
+Kenosha County|525|INCREASE
+Kewaunee County|49|INCREASE
+La Crosse County|573|INCREASE
+Lafayette County|156|INCREASE
+Langlade County|103|DECREASE
+Lincoln County|248|DECREASE
+Manitowoc County|185|DECREASE
+Marathon County|463|INCREASE
+Marinette County|264|DECREASE
+Marquette County|52|DECREASE
+Menominee County|102|INCREASE
+Milwaukee County|3539|INCREASE
+Monroe County|400|INCREASE
+Oconto County|53|DECREASE
+Oneida County|133|DECREASE
+Outagamie County|769|INCREASE
+Ozaukee County|254|INCREASE
+Pepin County|18|DECREASE
+Pierce County|187|DECREASE
+Polk County|183|DECREASE
+Portage County|202|INCREASE
+Price County|92|DECREASE
+Racine County|433|DECREASE
+Richland County|31|INCREASE
+Rock County|168|DECREASE
+Rusk County|106|DECREASE
+St. Croix County|482|INCREASE
+Sauk County|363|INCREASE
+Sawyer County|30|DECREASE
+Shawano County|169|DECREASE
+Sheboygan County|169|DECREASE
+Taylor County|122|INCREASE
+Trempealeau County|196|INCREASE
+Vernon County|299|INCREASE
+Vilas County|65|DECREASE
+Walworth County|371|INCREASE
+Washburn County|154|DECREASE
+Washington County|280|INCREASE
+Waukesha County|644|INCREASE
+Waupaca County|68|DECREASE
+Waushara County|84|INCREASE
+Winnebago County|630|INCREASE
+Wood County|149|DECREASE
+

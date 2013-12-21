@@ -1,0 +1,6 @@
+1|White Alone
+2|Black or African American Alone
+3|American Indian and Alaska Native Alone
+4|Asian Alone
+5|Native Hawaiian and Other Pacific Islander Alone
+6|Two or More Races

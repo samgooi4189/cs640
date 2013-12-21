@@ -1,0 +1,23 @@
+Alabama
+Arizona
+California
+Colorado
+Florida
+Georgia
+Illinois
+Indiana
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Missouri
+New Jersey
+New York
+North Carolina
+Ohio
+Pennsylvania
+Tennessee
+Texas
+Virginia
+Washington
+Wisconsin
